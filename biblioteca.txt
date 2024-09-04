@@ -1,0 +1,29 @@
+{
+    "libros": {
+        "002": {
+            "titulo": "Secreto",
+            "autor": "X",
+            "categoria": "Motivacional",
+            "isbn": "002"
+        }
+    },
+    "usuarios": {
+        "001": {
+            "nombre": "Ronny Melo",
+            "id_usuario": "001",
+            "libros_prestados": [
+                {
+                    "titulo": "Juego de Tronos",
+                    "autor": "George",
+                    "categoria": "Ficcion",
+                    "isbn": "001"
+                }
+            ]
+        },
+        "002": {
+            "nombre": "Joel Rosero",
+            "id_usuario": "002",
+            "libros_prestados": []
+        }
+    }
+}
